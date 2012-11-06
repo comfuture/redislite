@@ -1,0 +1,4 @@
+
+class RedisliteError(Exception):
+    pass
+
